@@ -1,0 +1,9 @@
+D:\PARCIAL\DAL\bin\Debug\DAL.dll
+D:\PARCIAL\DAL\bin\Debug\DAL.pdb
+D:\PARCIAL\DAL\bin\Debug\BE.dll
+D:\PARCIAL\DAL\bin\Debug\BE.pdb
+D:\PARCIAL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PARCIAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PARCIAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PARCIAL\DAL\obj\Debug\DAL.dll
+D:\PARCIAL\DAL\obj\Debug\DAL.pdb

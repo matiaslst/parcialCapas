@@ -1,0 +1,11 @@
+D:\PARCIAL\BLL\bin\Debug\BLL.dll
+D:\PARCIAL\BLL\bin\Debug\BLL.pdb
+D:\PARCIAL\BLL\bin\Debug\BE.dll
+D:\PARCIAL\BLL\bin\Debug\DAL.dll
+D:\PARCIAL\BLL\bin\Debug\BE.pdb
+D:\PARCIAL\BLL\bin\Debug\DAL.pdb
+D:\PARCIAL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PARCIAL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PARCIAL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PARCIAL\BLL\obj\Debug\BLL.dll
+D:\PARCIAL\BLL\obj\Debug\BLL.pdb

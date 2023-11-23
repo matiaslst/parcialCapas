@@ -1,0 +1,6 @@
+D:\PARCIAL\BE\bin\Debug\BE.dll
+D:\PARCIAL\BE\bin\Debug\BE.pdb
+D:\PARCIAL\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\PARCIAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\PARCIAL\BE\obj\Debug\BE.dll
+D:\PARCIAL\BE\obj\Debug\BE.pdb
